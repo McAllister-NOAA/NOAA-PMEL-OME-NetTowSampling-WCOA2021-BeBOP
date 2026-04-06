@@ -1,6 +1,6 @@
 # NOAA-PMEL-OME-NetTowSampling-WCOA2021-BeBOP
 
-See NOAA-PMEL-OME-NetTowSampling-WCOA2021-BeBOP.md for detailed protocol.
+See [NOAA-PMEL-OME-NetTowSampling-WCOA2021-BeBOP.md](https://github.com/McAllister-NOAA/NOAA-PMEL-OME-NetTowSampling-WCOA2021-BeBOP/blob/main/NOAA-PMEL-OME-NetTowSampling-WCOA2021-BeBOP.md) for detailed protocol.
 
 This is verion 0.1 and is draft document that has not been finalized.
 
